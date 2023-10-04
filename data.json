@@ -1,10 +1,10 @@
 [
     {
-        "nombre": "Prueba de Nombre",
+        "name": "Prueba de Nombre",
         "status": "Pendiente"
     },
     {
-        "nombre": "Prueba de nombre 2",
+        "name": "Prueba de nombre 2",
         "status": "Entregado"
     }
 ]
