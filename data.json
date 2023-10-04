@@ -1,9 +1,5 @@
 [
     {
-        "name": "Prueba de Nombre",
-        "status": "Pendiente"
-    },
-    {
         "name": "Prueba de nombre 2",
         "status": "Entregado"
     }
